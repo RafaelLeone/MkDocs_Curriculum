@@ -1,7 +1,6 @@
 site_name: Rafael Leone
 theme:
-    name: readthedocs
-    highlightjs: true
+  name: material
 site_url: https://rafaelleone.github.io/mkdocs_curriculo/
 repo_url: https://github.com/RafaelLeone/mkdocs_curriculo
 nav:
