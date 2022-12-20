@@ -10,9 +10,9 @@ Sou integrante dos ***Busertech***.
 
 Meu github: [github/RafaelLeone](https://github.com/RafaelLeone).
 
-Como estagiário, entrego projetos para o time de Rotas da Buser.
-Meu último trabalho foi o desenvolvimento de um endpoint para precificação automática. Quando há necessidade da troca de classes de assentos em um ônibus, a precificação do assento é feita de forma manual pelo time de operações.
-Além disso desenvolvo testes para que esses bugs não voltem a ocorrer.
+Como estagiário, entrego projetos para o time de rotas da **Buser**.
+Meu trabalho atual é o desenvolvimento de um endpoint para precificação automática. Quando há necessidade da troca de assentos em um ônibus, a precificação do assento é feita de forma manual pelo time de operações.
+Além de tarefas como essa, desenvolvo testes para que novos bugs não ocorram em códigos antigos.
 
 ## Experiência
 
