@@ -8,7 +8,7 @@ Sou integrante dos ***Busertech***.
 > "*Qual problema você quer resolver?*"  
 > -Tony Lâmpada
 
-Meu github: [github/RafaelLeone](https://github.com/RafaelLeone).
+<p id="github">Meu github: [github/RafaelLeone](https://github.com/RafaelLeone).</p>
 
 Como estagiário, entrego projetos para o time de rotas da **Buser**.
 Meu trabalho atual é o desenvolvimento de um endpoint para precificação automática. Quando há necessidade da troca de assentos em um ônibus, a precificação do assento é feita de forma manual pelo time de operações.
