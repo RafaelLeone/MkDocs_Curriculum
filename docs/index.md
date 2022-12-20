@@ -1,5 +1,6 @@
 # Currículo de Rafael Leone
 
+## Sobre mim
 Olá!
 Eu sou **Rafael**.  
 Sou integrante dos ***Busertech*** e tenho o Inglês como segunda língua.
@@ -7,17 +8,17 @@ Sou integrante dos ***Busertech*** e tenho o Inglês como segunda língua.
 Meu trabalho atual é o desenvolvimento de um endpoint para precificação automática.  
 Além de tarefas como essa, desenvolvo testes em Python para que bugs não ocorram em códigos antigos.
 
-### Me contate:
+### Me contate
 Meu Linkedin: [LinkedIn](https://www.linkedin.com/in/rafael-leone-4883b41a1/)  
 Meu github: [github/RafaelLeone](https://github.com/RafaelLeone)  
 Meu e-mail: rinaciodacosta@gmail.com
-
+  
 
 > "*Qual problema você quer resolver?*"  
 > -Tony Lâmpada
 
 
-## Experiência e projetos:
+## Experiência e projetos
 
 Fluente em Inglês e experiência como professor da Língua Inglesa.
 
