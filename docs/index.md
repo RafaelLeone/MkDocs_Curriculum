@@ -2,10 +2,10 @@
 
 Olá!
 Eu sou **Rafael**.  
-Sou integrante dos ***Busertech***.  
+Sou integrante dos ***Busertech*** e tenho o Inglês como segunda língua.
 > Como estagiário, entrego projetos para o time de rotas da <span class="buser">**Buser**</span>.
-Meu trabalho atual é o desenvolvimento de um endpoint para precificação automática. Quando há necessidade da troca de assentos em um ônibus, a precificação do assento é feita de forma manual pelo time de operações.
-Além de tarefas como essa, desenvolvo testes para que novos bugs não ocorram em códigos antigos.
+Meu trabalho atual é o desenvolvimento de um endpoint para precificação automática.  
+Além de tarefas como essa, desenvolvo testes em Python para que bugs não ocorram em códigos antigos.
 
 ### Me contate:
 Meu Linkedin: [LinkedIn](https://www.linkedin.com/in/rafael-leone-4883b41a1/)  
@@ -18,8 +18,10 @@ Meu e-mail: rinaciodacosta@gmail.com
 
 ## Experiência e projetos:
 
+Fluente em Inglês e experiência como professor da Língua Inglesa.
+
 `Html & CSS`  
-[Página estática](https://rafaelleone.github.io/d4-wordle-rafael-leone/)  
+[Site estático](https://rafaelleone.github.io/d4-wordle-rafael-leone/)  
   
 `Django`  
 [Blog](https://rafaeleone26.pythonanywhere.com/)  
