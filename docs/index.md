@@ -16,12 +16,17 @@ Além de tarefas como essa, desenvolvo testes para que novos bugs não ocorram e
 
 ## Experiência
 
-`html`  
-`css`  
-`python`  
-`Django`  
 `JavaScript`  
-`VueJS`
+[Jogo Wordle em JS](https://rafaelleone.github.io/wordle_javascript2/)  
+`html & css`  
+[Página estática](https://rafaelleone.github.io/d4-wordle-rafael-leone/)  
+`Django`  
+[Blog](https://rafaeleone26.pythonanywhere.com/)  
+`python`  
+[Advent of Code 2022](https://github.com/RafaelLeone/adventofcode2022)  
+[PythonProBR](https://github.com/RafaelLeone/lista-de-exercicios-python-brasil)  
+`VueJS`  
+[Projeto To Do List](https://github.com/RafaelLeone/vue-todo-vuetify)
 
 ## Futuro
 
