@@ -22,6 +22,9 @@ Meu e-mail: rinaciodacosta@gmail.com
 
 Fluente em Inglês e experiência como professor da Língua Inglesa.
 
+`VueJS`  
+[Jogo Wordle](https://rafaelleone.github.io/wordle-vuejs/)
+
 `Html & CSS`  
 [Site estático](https://rafaelleone.github.io/d4-wordle-rafael-leone/)  
   
@@ -35,8 +38,6 @@ Fluente em Inglês e experiência como professor da Língua Inglesa.
 [Advent of Code 2022](https://github.com/RafaelLeone/adventofcode2022)  
 [PythonProBR](https://github.com/RafaelLeone/lista-de-exercicios-python-brasil)  
   
-`VueJS`  
-[Projeto To Do List](https://github.com/RafaelLeone/vue-todo-vuetify)
 
 ## Futuro
 
