@@ -1,5 +1,5 @@
 # MkDocs Curriculum
-Acesse meu currículo: [Clique aqui](https://rafaelleone.github.io/mkdocs_curriculo/)
+Acesse meu currículo: [Clique aqui](https://rafaelleone.github.io/MkDocs_Curriculum/)
 
 1. Clone o projeto.
 2. Crie um ambiente virtual com `virtualenv .venv`
